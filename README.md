@@ -52,8 +52,6 @@ Welcome to **Two Wheels**—a vehicle rental web application located in Kavos, C
    git clone https://github.com/apandis/two-wheels-gr-web-app.git
    ```
 
-````
-
 2. **Navigate into the project directory**:
 
    ```bash
@@ -174,4 +172,4 @@ This project is licensed under the [MIT License](LICENSE). See the `LICENSE` fil
 
 **Happy coding with Two Wheels!** If you have any questions or suggestions, feel free to open an issue or submit a pull request.
 
-````
+
